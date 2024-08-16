@@ -1,5 +1,4 @@
 ### Hola 👋, soy Belén Araceli
-#### Estudiante de programación
 ![Estudiante de programación](https://github.com/BelenAraceliLagos)
 
 Comencé a aprender sobre programación en pandemia y me pareció algo muy entretenido, un mundo interesante con muchas cosas para aprender
