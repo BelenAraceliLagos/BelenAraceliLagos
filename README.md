@@ -1,5 +1,4 @@
 ### Hola 👋, soy Belén Araceli
-![Estudiante de programación](https://github.com/BelenAraceliLagos)
 
 Soy estudiante de programación... Vivo en la ciudad de Santiago de Chile
 
