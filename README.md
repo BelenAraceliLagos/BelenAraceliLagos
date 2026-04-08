@@ -1,17 +1,34 @@
-### Hola 👋, soy Belén Araceli
+# Hola, soy Belén 👩‍💻✨
 
-Soy estudiante de programación... Vivo en la ciudad de Santiago de Chile
+De gestionar equipos en el mundo de las ventas a escribir líneas de código que solucionan problemas. Soy una desarrolladora en formación con un fuerte enfoque en **Python** y **Java**. 
 
-Me dedico a estudiar programación en el Bootcam de Talento Digital. Tambien tengo un trabajo part-time como agente de ventas en una empresa de buses.
+### ¿Por qué yo?
+Mi trayectoria previa me dio superpoderes en **resolución de problemas**, **comunicación efectiva** y **trabajo bajo presión**. Ahora aplico esa misma energía para construir software robusto y centrado en el usuario.
 
-Estudié Pedagogía en Filosofía en la Universidad de Santiago de Chile. En el 2020 compencé a aprender programación e hice un bootcam de desarrollo web. Voy a estudiar tecnico en programación porque realmente me gusta mucho este rubro y me quiero dedicar a esto en un futuro próximo.
+### 📊 Mis estadísticas de aprendizaje:
+- 🔭 **Estudiante en:** Universidad Mayor (Técnico en Programación).
+- 🎓 **Certificada en:** Full Stack Java (Talento Digital).
+- ⚡ **Dato curioso:** Mi formación previa en Filosofía me ayuda a pensar de forma lógica y estructurada al programar.
 
-Mi principal experiencia laboral es en el rubro gastronómico, especialmente en cafeterías, entre ellas Starbucks donde aprendí mucho sobre el mundo del café. Tambien tengo experiencia en ventas y trabajé un tiempo de manera independiente en el mundo de la estetica.
+### 🛠️ Mi Stack Tecnológico:
+* **Lenguajes:** Python, Java, JavaScript (HTML/CSS).
+* **Frameworks:** Spring Boot, Django, Flutter.
+* **Bases de Datos:** PostgreSQL.
+* **Herramientas:** Git, GitHub.
 
-Estoy constantemente aprendiendo y buscando oportunidades de crecimiento personal y laboral, por lo cual se que haría un excelente trabajo en el desarrollo de software.
+### 🚀 En qué estoy trabajando:
+* 📱 **Proyecto Destacado:** Desarrollando una aplicación móvil en **Flutter** para facilitar la gestión de citas médicas y tareas administrativas para personas mayores.
+* 💻 Fortaleciendo mis conocimientos en arquitectura de microservicios con **Spring Boot**.
+* 🔍 Buscando mi primera experiencia en el mundo TI para aportar y seguir aprendiendo.
+
+### 📫 Conectemos:
+* **LinkedIn:** [https://cl.linkedin.com/in/belen-lagos-1990programacion]
+* **Email:** belenlagoscornejo@gmail.com
+
+*"La tecnología es mejor cuando une a la gente."*
+---
 
 
-Habilidades: JAVA/SPRING BOOT / HTML / CSS/POSTGRESQL
 
 
 
